@@ -23,7 +23,7 @@ This project focuses on analyzing customer spending behavior and segmenting cust
 ## 📁 Files Included
 - customer_segmentation_queries.sql → SQL queries
 - customer_data.xlsx → Dataset
-- segmentation_dashboard.pbix → Power BI dashboard
+- customer_segmentation_dashboard.pbix → Power BI dashboard
 - dashboard.png → Dashboard preview
 
 ## 📸 Dashboard Preview
